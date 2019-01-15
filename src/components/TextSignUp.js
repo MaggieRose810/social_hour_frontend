@@ -18,4 +18,9 @@ class TextSignUp extends React.Component{
 	}
 }
 
+const postPhoneNumber = () => {
+	
+}
+
+
 export default TextSignUp
